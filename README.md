@@ -1,2 +1,2 @@
 # EmEsGi
-Usa '\\\\\\\\' per creare un nuovo account
+Usa '\\\\\\\' per creare un nuovo account
